@@ -6,6 +6,7 @@ Un script que busca automatizar el uso de los 3 firrewalls mas conocidos para li
 ```bash
 git clone https://github.com/JJoosh/FIREWALLAUT.git
 cd FIREWALLAUT
+pip install -r requirements.txt
 chmod +x firwallaut.py
 sudo ./firwallaut.py 
 ```
